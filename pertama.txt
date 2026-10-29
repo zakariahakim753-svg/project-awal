@@ -1,2 +1,5 @@
 project pertama github
-project kedua github
+project kedua 
+project makan
+tidur
+siang
